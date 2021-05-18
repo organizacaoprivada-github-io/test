@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.full-bg {
+  background-image: url('https://acopatt.com/privado/bg.png');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.text-style {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
